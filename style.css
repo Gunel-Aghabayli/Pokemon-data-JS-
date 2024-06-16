@@ -1,0 +1,256 @@
+.clickBtn1{
+    --green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+  }
+  .clickBtn2{
+    --green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+  }
+  .clickBtn3{
+    --green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+  }
+  .clickBtn4{
+    --green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+  }
+  .clickBtn5{
+    --green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+  }
+  .clickBtn6{
+    --green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+  }
+
+.pokemonData{
+    -green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+    
+  }
+  .clickBtn6{
+    --green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+  }
+  .clickBtn7{
+    --green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+  }
+  .clickBtn8{
+    --green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+  }
+  .clickBtn9{
+    --green: #4855cd;
+    font-size: 15px;
+    padding: 0.7em 2.7em;
+    letter-spacing: 0.06em;
+    position: relative;
+    font-family: inherit;
+    border-radius: 0.6em;
+    overflow: hidden;
+    transition: all 0.3s;
+    line-height: 1.4em;
+    border: 2px solid var(--green);
+    background: linear-gradient(
+      to right,
+      rgba(98, 88, 193, 0.1) 1%,
+      transparent 40%,
+      transparent 60%,
+      rgba(98, 74, 149, 0.1) 100%
+    );
+    color: var(--green);
+    box-shadow: inset 0 0 10px rgba(93, 110, 205, 0.4),
+      0 0 9px 3px rgba(108, 120, 230, 0.1);
+  }
+  
